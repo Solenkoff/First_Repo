@@ -1,4 +1,8 @@
 
 Totrois!
 
+<<<<<<< HEAD
 Bau
+=======
+Ne, ne
+>>>>>>> fe2bf5f916a6f393483740fe9e5395578858e0fa
